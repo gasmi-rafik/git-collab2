@@ -30,6 +30,7 @@ function App() {
       <Fras />
       second greeting from firas
       <Fras />
+      blal bla 
     </div>
   );
 }
