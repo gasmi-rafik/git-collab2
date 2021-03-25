@@ -1,5 +1,6 @@
 
 import './App.css';
+import Fras from './Fras';
 
 function App() {
  
@@ -15,6 +16,7 @@ function App() {
         <button style={{backgroundColor : "yellow"}}> submite </button>
       </form>
       </header>
+      <Fras />
     </div>
   );
 }
