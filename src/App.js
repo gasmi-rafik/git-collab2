@@ -18,6 +18,8 @@ function App() {
       </form> */}
       hello rafik
 
+
+
       second greeting from rafik 
 
       hello rafik
@@ -25,6 +27,8 @@ function App() {
       second greeting from rafik 
 
       </header>
+      <Fras />
+      second greeting from firas
       <Fras />
     </div>
   );
