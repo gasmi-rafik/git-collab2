@@ -1,5 +1,6 @@
 
 import './App.css';
+import Fras from './Fras';
 
 function App() {
  
@@ -18,6 +19,7 @@ function App() {
 
       second greeting from rafik 
       </header>
+      <Fras />
     </div>
   );
 }
