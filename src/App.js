@@ -14,7 +14,12 @@ function App() {
         <input type ="text" placeholder=" enter your last name" id="2" value=""/>
 
         <button style={{backgroundColor : "yellow"}}> submite </button>
+
       </form> */}
+      hello rafik
+
+      second greeting from rafik 
+
       hello rafik
 
       second greeting from rafik 
